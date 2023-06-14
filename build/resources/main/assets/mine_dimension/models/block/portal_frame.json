@@ -1,8 +1,0 @@
-{
-  "parent": "block/cube_all",
-  "textures": {
-    "all": "mine_dimension:blocks/portal_frame",
-    "particle": "mine_dimension:blocks/portal_frame"
-  },
-  "render_type": "solid"
-}

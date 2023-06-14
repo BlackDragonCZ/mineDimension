@@ -1,8 +1,0 @@
-{
-  "parent": "block/cube_all",
-  "textures": {
-    "all": "mine_dimension:blocks/bedrock_ore",
-    "particle": "mine_dimension:blocks/bedrock_ore"
-  },
-  "render_type": "solid"
-}
