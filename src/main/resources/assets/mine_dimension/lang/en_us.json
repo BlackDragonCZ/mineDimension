@@ -1,0 +1,19 @@
+{
+  "item.mine_dimension.mining_dimension": "Vortex Activator",
+  "item.mine_dimension.icon_m": "Icon",
+  "advancements.mining_dimension_adv.title": "Mining Dimension",
+  "block.mine_dimension.portal_frame": "Portal Frame",
+  "block.mine_dimension.portal": "Vortex",
+  "advancements.vortex_ore_adv.descr": "Locate and mine Vortexite Ore",
+  "block.mine_dimension.vortexite_ore": "Vortexite Ore",
+  "advancements.vortex_activator_adv.descr": "Craft Vortex Activator",
+  "item.mine_dimension.vortexite": "Vortexite",
+  "advancements.vortex_ore_adv.title": "Vortexicated",
+  "advancements.vortex_activator_adv.title": "Vortex Activator",
+  "advancements.mining_dimension_adv.descr": "Enter Mining Dimension and have FUN!",
+  "advancements.install_adv.descr": "Install this mod",
+  "itemGroup.tabm_dim_tab": "Mining Dimension",
+  "biome.mine_dimension.m_world": "Mining biome",
+  "advancements.install_adv.title": "Mod Installed",
+  "block.mine_dimension.mining_dimension_portal": "Vortex Gate"
+}

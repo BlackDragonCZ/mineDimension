@@ -1,0 +1,41 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "mine_dimension:vortexite"
+    },
+    "1": {
+      "item": "minecraft:polished_blackstone_bricks"
+    },
+    "2": {
+      "item": "mine_dimension:vortexite"
+    },
+    "3": {
+      "item": "minecraft:polished_blackstone_bricks"
+    },
+    "4": {
+      "item": "minecraft:netherite_scrap"
+    },
+    "5": {
+      "item": "minecraft:polished_blackstone_bricks"
+    },
+    "6": {
+      "item": "mine_dimension:vortexite"
+    },
+    "7": {
+      "item": "minecraft:polished_blackstone_bricks"
+    },
+    "8": {
+      "item": "mine_dimension:vortexite"
+    }
+  },
+  "result": {
+    "item": "mine_dimension:portal_frame",
+    "count": 1
+  }
+}

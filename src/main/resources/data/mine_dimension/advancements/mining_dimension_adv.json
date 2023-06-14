@@ -1,0 +1,39 @@
+{
+  "display": {
+    "icon": {
+      "item": "mine_dimension:vortexite"
+    },
+    "title": {
+      "translate": "advancements.mining_dimension_adv.title"
+    },
+    "description": {
+      "translate": "advancements.mining_dimension_adv.descr"
+    },
+    "frame": "challenge",
+    "show_toast": false,
+    "announce_to_chat": true,
+    "hidden": true
+  },
+  "criteria": {
+    "mining_dimension_adv": {
+      "trigger": "minecraft:location",
+      "conditions": {
+        "player": [
+          {
+            "condition": "minecraft:entity_properties",
+            "entity": "this",
+            "predicate": {
+              "location": {
+                "biome": "mine_dimension:m_world"
+              }
+            }
+          }
+        ]
+      }
+    }
+  },
+  "rewards": {
+    "experience": 12
+  },
+  "parent": "mine_dimension:install_adv"
+}

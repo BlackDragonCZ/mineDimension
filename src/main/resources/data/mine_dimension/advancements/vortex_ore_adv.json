@@ -1,0 +1,23 @@
+{
+  "display": {
+    "icon": {
+      "item": "mine_dimension:vortexite_ore"
+    },
+    "title": {
+      "translate": "advancements.vortex_ore_adv.title"
+    },
+    "description": {
+      "translate": "advancements.vortex_ore_adv.descr"
+    },
+    "frame": "goal",
+    "show_toast": false,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "vortex_ore_adv": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "parent": "mine_dimension:install_adv"
+}

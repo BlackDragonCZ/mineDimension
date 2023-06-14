@@ -1,0 +1,23 @@
+{
+  "display": {
+    "background": "mine_dimension:textures/screens/portal_frame.png",
+    "icon": {
+      "item": "mine_dimension:icon_m"
+    },
+    "title": {
+      "translate": "advancements.install_adv.title"
+    },
+    "description": {
+      "translate": "advancements.install_adv.descr"
+    },
+    "frame": "task",
+    "show_toast": false,
+    "announce_to_chat": false,
+    "hidden": false
+  },
+  "criteria": {
+    "install_adv": {
+      "trigger": "minecraft:impossible"
+    }
+  }
+}

@@ -1,0 +1,38 @@
+modLoader="javafml"
+loaderVersion="[43,)"
+license="All Rights Reserved"
+
+[[mods]]
+modId="mine_dimension"
+version="1.2"
+displayName="mine Dimension"
+credits="code: BlackDragonCZ | textures: MikMikTG"
+displayURL="https://blackdragoncz.cz/"
+logoFile="logo.png"
+authors="BlackDragonCZ"
+description='''
+Simple mod that adds mining dimension
+'''
+
+[[dependencies.mine_dimension]]
+    modId="minecraft"
+    mandatory=true
+    versionRange="[1.19.2]"
+    ordering="NONE"
+    side="BOTH"
+
+
+
+[[dependencies.mine_dimension]]
+    modId="jade"
+    mandatory=false
+    versionRange="[0,)"
+    ordering="NONE"
+    side="BOTH"
+[[dependencies.mine_dimension]]
+    modId="jei"
+    mandatory=false
+    versionRange="[0,)"
+    ordering="NONE"
+    side="BOTH"
+
